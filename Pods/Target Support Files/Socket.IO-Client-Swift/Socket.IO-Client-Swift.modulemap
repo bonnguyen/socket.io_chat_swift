@@ -1,0 +1,6 @@
+framework module Socket_IO_Client_Swift {
+  umbrella header "Socket.IO-Client-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
